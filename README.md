@@ -1,1 +1,2 @@
-QuantTicker is a minimalist Wear OS app delivering real-time Quant ($QNT) prices from CoinGecko directly on your wrist.
+ISOWATCH is a Wear OS application that delivers real-time ISO 20022 cryptocurrency prices directly on your wrist. Built with Jetpack Compose and powered by the CoinGecko API, ISOWATCH started as a focused tracker for Quant ($QNT) and has since expanded to monitor the full suite of ISO 20022 compliant digital assets including XRP, XLM, ADA, ALGO, HBAR, IOTA, and XDC.
+Designed for investors and fintech professionals tracking the coins being adopted by SWIFT, central banks, and global financial institutions — all from a native Wear OS experience.
